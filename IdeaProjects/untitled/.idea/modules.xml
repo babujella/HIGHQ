@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionExamples/CollectionExamples.iml" filepath="$PROJECT_DIR$/CollectionExamples/CollectionExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinAll/KotlinAll.iml" filepath="$PROJECT_DIR$/KotlinAll/KotlinAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Null Safety/Null Safety.iml" filepath="$PROJECT_DIR$/Null Safety/Null Safety.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oops/Oops.iml" filepath="$PROJECT_DIR$/Oops/Oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingSlots/ParkingSlots.iml" filepath="$PROJECT_DIR$/ParkingSlots/ParkingSlots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeExamples/PracticeExamples.iml" filepath="$PROJECT_DIR$/PracticeExamples/PracticeExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ranges/Ranges.iml" filepath="$PROJECT_DIR$/Ranges/Ranges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SportsComplex/SportsComplex.iml" filepath="$PROJECT_DIR$/SportsComplex/SportsComplex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Techout/Techout.iml" filepath="$PROJECT_DIR$/Techout/Techout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/Techouts.iml" filepath="$PROJECT_DIR$/src/main/Techouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech/tech.iml" filepath="$PROJECT_DIR$/tech/tech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/test/techouts.iml" filepath="$PROJECT_DIR$/src/test/techouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled.main.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled.test.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled.test.iml" />
+    </modules>
+  </component>
+</project>

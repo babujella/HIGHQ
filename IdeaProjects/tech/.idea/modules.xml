@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tcs/tcs.iml" filepath="$PROJECT_DIR$/tcs/tcs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech.iml" filepath="$PROJECT_DIR$/tech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcs/untitled/untitled.iml" filepath="$PROJECT_DIR$/tcs/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
