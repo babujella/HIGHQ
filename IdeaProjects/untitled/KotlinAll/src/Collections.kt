@@ -10,6 +10,6 @@ fun main() {
     var Map= mutableSetOf<Any>(1,2,3,4,8,4,5,6)
     println(Map)
     println()
-    var mapo= hashSetOf<Any>(1,2,3,4,8,4,5,6)
-    println(mapo)
+        //  var mapo= hashSetOf<Any>(1,2,3,4,8,4,5,6)
+    //println(mapo)
 }

@@ -1,6 +1,9 @@
 fun main() {
     var str:String?="JellaBabu"
-    if (str != null) {          //Smart cast
-        println(str.length)
+    if (str !is String) {          //Smart cast
+        println(str)
+    }
+    else{
+        println(str)
     }
 }

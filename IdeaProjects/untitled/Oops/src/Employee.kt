@@ -2,19 +2,22 @@ open class Employee(id:Int,Name:String,Age:Int) {
     init {
         println("Employee id :$id and Name : $Name and age is :$Age")
     }
+    open fun functionality(){
+        println("Babu")
+    }
 }
 class WebDevoloper(id:Int,Name:String,Age:Int):Employee(id,Name,Age){
-    fun functionality(){
+    override fun functionality(){
         println("He is a WebDevoloper")
     }
 }
 class AndroidDevoloper(id:Int,Name:String,Age:Int):Employee(id,Name,Age){
-    fun functionality(){
+    override fun functionality(){
         println("He is a AndroidDevoloper")
     }
 }
 class IOSDevoloper(id:Int,Name:String,Age:Int):Employee(id,Name,Age){
-    fun functionality(){
+    override fun functionality(){
         println("He is a IOSDevoloper")
     }
 }

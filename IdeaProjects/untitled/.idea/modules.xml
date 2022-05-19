@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CollectionExamples/CollectionExamples.iml" filepath="$PROJECT_DIR$/CollectionExamples/CollectionExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalExamples/FinalExamples.iml" filepath="$PROJECT_DIR$/FinalExamples/FinalExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/KotlinAll/KotlinAll.iml" filepath="$PROJECT_DIR$/KotlinAll/KotlinAll.iml" />
       <module fileurl="file://$PROJECT_DIR$/Null Safety/Null Safety.iml" filepath="$PROJECT_DIR$/Null Safety/Null Safety.iml" />
